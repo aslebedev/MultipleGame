@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1197ED062417A2BA00043412 /* GridStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197ED052417A2BA00043412 /* GridStack.swift */; };
+		11BC02F8236D96B100A95FFB /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BC02F7236D96B100A95FFB /* Questions.swift */; };
 		11FFC41823673B7900182C5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FFC41723673B7900182C5F /* AppDelegate.swift */; };
 		11FFC41A23673B7900182C5F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FFC41923673B7900182C5F /* SceneDelegate.swift */; };
 		11FFC41C23673B7900182C5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11FFC41B23673B7900182C5F /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1197ED052417A2BA00043412 /* GridStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridStack.swift; sourceTree = "<group>"; };
+		11BC02F7236D96B100A95FFB /* Questions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
 		11FFC41423673B7900182C5F /* MultipleGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultipleGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11FFC41723673B7900182C5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11FFC41923673B7900182C5F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,7 +62,9 @@
 			children = (
 				11FFC41723673B7900182C5F /* AppDelegate.swift */,
 				11FFC41923673B7900182C5F /* SceneDelegate.swift */,
+				1197ED052417A2BA00043412 /* GridStack.swift */,
 				11FFC41B23673B7900182C5F /* ContentView.swift */,
+				11BC02F7236D96B100A95FFB /* Questions.swift */,
 				11FFC41D23673B7B00182C5F /* Assets.xcassets */,
 				11FFC42223673B7B00182C5F /* LaunchScreen.storyboard */,
 				11FFC42523673B7B00182C5F /* Info.plist */,
@@ -146,7 +152,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1197ED062417A2BA00043412 /* GridStack.swift in Sources */,
 				11FFC41823673B7900182C5F /* AppDelegate.swift in Sources */,
+				11BC02F8236D96B100A95FFB /* Questions.swift in Sources */,
 				11FFC41A23673B7900182C5F /* SceneDelegate.swift in Sources */,
 				11FFC41C23673B7900182C5F /* ContentView.swift in Sources */,
 			);
